@@ -25,6 +25,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witalon&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tecnologias que eu uso no meu dia :computer: ![skills](https://github.com/edilan-ribeiro/edilan-ribeiro/assets/134718124/f12493ff-0f30-460d-b11f-3ebf19d8e95f)
